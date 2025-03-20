@@ -1,5 +1,3 @@
-const apiKey = 'XJ2vXnXlKYptqnvY8i6arYO7mKkecU2Y9ODiNAfl';
-
 const longitudeTimeApp = Vue.createApp({
 	data() {
 		return {
